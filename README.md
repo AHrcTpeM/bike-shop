@@ -1,5 +1,5 @@
 Проект курса itnation 2.0
-по фигма проекту
+по фигма макету
 https://www.figma.com/file/hR9nha3QIXDD0DhXT5jZOr/Frontend-Advanced-%D0%A3%D1%80%D0%BE%D0%BA-35
 
 # Getting Started with Create React App
