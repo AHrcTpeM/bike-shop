@@ -1,3 +1,7 @@
+Проект курса itnation
+по фигма макету
+https://www.figma.com/file/hR9nha3QIXDD0DhXT5jZOr/Frontend-Advanced-%D0%A3%D1%80%D0%BE%D0%BA-35
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -52,10 +56,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-Проект курса itnation
-по фигма макету
-https://www.figma.com/file/hR9nha3QIXDD0DhXT5jZOr/Frontend-Advanced-%D0%A3%D1%80%D0%BE%D0%BA-35
 
 ### Making a Progressive Web App
 
