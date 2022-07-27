@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.ae2e6638.js",
+    "static/media/header-bg.png": "/static/media/header-bg.f661f37723d83daffaaa.png",
+    "static/media/image-5.png": "/static/media/image-5.4ea3dcf5c5b3c95c23d4.png",
+    "static/media/image-3.png": "/static/media/image-3.872e8a4394d18b7956b3.png",
+    "static/media/image-6.png": "/static/media/image-6.21f18952f0e2150e28be.png",
+    "static/media/image-2.png": "/static/media/image-2.4588875e6cff9e96f050.png",
+    "static/media/image-8.png": "/static/media/image-8.365061f10c4fa1f9ae39.png",
+    "static/media/image-4.png": "/static/media/image-4.8d19616a50eeedec6880.png",
+    "static/media/image-7.png": "/static/media/image-7.5321136eff876f2c942c.png",
+    "static/media/image-1.png": "/static/media/image-1.ef86d82f07b6a5875772.png",
+    "static/media/post-2.png": "/static/media/post-2.125d4e076a8166445650.png",
+    "static/media/post-3.png": "/static/media/post-3.9f42ea1e749fd225aca1.png",
+    "static/media/checkout.png": "/static/media/checkout.a7b6b34de4507e7c5557.png",
+    "static/media/post-4.png": "/static/media/post-4.aa4b410dea6022dbc3ab.png",
+    "static/media/post-1.png": "/static/media/post-1.382fcd9282cf86631da7.png",
+    "static/media/logo.svg": "/static/media/logo.2fc2eaae52501690ef3201d589df5f97.svg",
+    "static/media/twitter.svg": "/static/media/twitter.30e339c6f031a927ccb7693563a17799.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.48aa64b1879fcbd93ec048ee2efc8c18.svg",
+    "static/media/telegram.svg": "/static/media/telegram.3a73f548fa03e353d679f5eb546291f1.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.ae2e6638.js.map": "/static/js/main.ae2e6638.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ae2e6638.js"
+  ]
+}
